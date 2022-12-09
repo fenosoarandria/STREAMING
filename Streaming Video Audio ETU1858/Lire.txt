@@ -1,0 +1,14 @@
+lib>>Class Path
+
+VLC Obligatoire
+
+Fichier "Autre" dans server:
+	video
+	Mp3
+	Img
+
+Compilation:
+	javac -d . *.java
+	java main.Main
+lib manquante :jave-nativebin-win64-3.3.1.jar
+Merci!!!
